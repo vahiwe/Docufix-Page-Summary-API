@@ -1,0 +1,5 @@
+flask
+sumy
+numpy
+nltk
+gunicorn
